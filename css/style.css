@@ -194,6 +194,14 @@ width: 100%;background: #111111;opacity: 1;left: 0;
 
 transform: rotate(0deg);-webkit-transition: .25s ease-in-out;-moz-transition: .25s ease-in-out;-o-transition: .25s ease-in-out;transition: .25s ease-in-out;}
 
+header[role="header"] h1 .fa-heart {float: left;display: block;font-size: 80px;color: #fb5353;}
+
+header[role="header"] h1 .fa-book {float: left;display: block;font-size: 80px;color: #fb5353;}
+
+header[role="header"] h1 .fa-pencil {float: left;display: block;font-size: 80px;color: #fb5353;}
+
+header[role="header"] h1 .fa-commenting {float: left;display: block;font-size: 80px;color: #fb5353;}
+
 header[role="header"] nav #menu-button span {background: #010101;}
 
 header[role="header"] nav #menu-button span:nth-child(1) {top:0px;}

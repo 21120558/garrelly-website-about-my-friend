@@ -60,6 +60,12 @@ input, textarea {
 
 }
 
+#collect-title
+{
+	color: #fb5353;
+	font-weight: bold;
+}
+
 button, html input[type="button"],/* 1 */ input[type="reset"], input[type="submit"] {
 
 	-webkit-appearance: button;

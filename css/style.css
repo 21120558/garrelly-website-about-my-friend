@@ -60,12 +60,6 @@ input, textarea {
 
 }
 
-#collect-title
-{
-	color: #fb5353;
-	font-weight: bold;
-}
-
 button, html input[type="button"],/* 1 */ input[type="reset"], input[type="submit"] {
 
 	-webkit-appearance: button;
@@ -74,6 +68,12 @@ button, html input[type="button"],/* 1 */ input[type="reset"], input[type="submi
 
  *overflow:visible;
 
+}
+
+#collect-title
+{
+	color: #fb5353;
+	font-weight: bold;
 }
 
 body, img,.commentys-form input[type="text"],.commentys-form input[type="email"],.commentys-form input[type="url"],.commentys-form textarea {
